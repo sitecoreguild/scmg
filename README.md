@@ -8,3 +8,7 @@ NOTE: Some of these files will be generated from other sources. These items will
 
 If items are tagged with this please look for another file in the folder that will start with COMGEN_ these files can be edited and the contents will be merged back into the Reputation Engine for processing.
 
+1. [Read](/sitecoreguild/scmg/Read)
+2. [Watch](/sitecoreguild/scmg/Watch)
+3. [Create](/sitecoreguild/scmg/Create)
+
